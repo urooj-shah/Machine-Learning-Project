@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (large datasets)
+data/
+
+# Cached features (large numpy arrays, 2GB+)
+features/
+
+# Model checkpoints
+checkpoints/
+
+# Secrets
+.env

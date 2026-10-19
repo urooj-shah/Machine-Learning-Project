@@ -1,0 +1,37 @@
+data_root: data/raw
+
+datasets:
+  polypgen_C1:
+    images: PolypGen2021_MultiCenterData_v3/data_C1/images_C1
+    masks:  PolypGen2021_MultiCenterData_v3/data_C1/masks_C1
+    mask_pattern: "{stem}_mask.jpg"
+
+  polypgen_C2:
+    images: PolypGen2021_MultiCenterData_v3/data_C2/images_C2
+    masks:  PolypGen2021_MultiCenterData_v3/data_C2/masks_C2
+    mask_pattern: "{stem}_mask.jpg"
+
+  polypgen_C3:
+    images: PolypGen2021_MultiCenterData_v3/data_C3/images_C3
+    masks:  PolypGen2021_MultiCenterData_v3/data_C3/masks_C3
+    mask_pattern: "{stem}_mask.jpg"
+
+  polypgen_C4:
+    images: PolypGen2021_MultiCenterData_v3/data_C4/images_C4
+    masks:  PolypGen2021_MultiCenterData_v3/data_C4/masks_C4
+    mask_pattern: "{stem}_mask.jpg"
+
+  polypgen_C5:
+    images: PolypGen2021_MultiCenterData_v3/data_C5/images_C5
+    masks:  PolypGen2021_MultiCenterData_v3/data_C5/masks_C5
+    mask_pattern: "{stem}_mask.jpg"
+
+  polypgen_C6:
+    images: PolypGen2021_MultiCenterData_v3/data_C6/images_C6
+    masks:  PolypGen2021_MultiCenterData_v3/data_C6/masks_C6
+    mask_pattern: "{stem}_mask.jpg"
+
+  kvasir:
+    images: kvasir-seg/Kvasir-SEG/Kvasir-SEG/images
+    masks:  kvasir-seg/Kvasir-SEG/Kvasir-SEG/masks
+    mask_pattern: "{stem}.jpg"

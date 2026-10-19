@@ -1,0 +1,2 @@
+Results INVALID: float64→PIL bug + decoder reshape bug.
+See outputs/04_corrected/ for corrected results.

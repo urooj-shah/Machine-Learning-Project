@@ -1,0 +1,3 @@
+resolution,extraction_s,training_s,val_dice_mean
+224,cached,222,0.8396
+448,0,859,0.8709

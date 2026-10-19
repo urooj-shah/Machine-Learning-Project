@@ -1,0 +1,24 @@
+# Data download & config
+synapseclient
+python-dotenv
+
+# Core ML
+torch
+torchvision
+numpy
+scipy
+scikit-learn
+
+# Image handling
+Pillow
+opencv-python-headless
+
+# Visualization & results
+matplotlib
+pandas
+seaborn
+
+# Utilities
+tqdm
+kagglehub
+pyyaml

@@ -1,0 +1,10 @@
+07_reconcile addenda — NOT YET RUN
+
+The following were specified in the original task but have not been executed:
+
+1. Per-site quantization ceilings (patch-grid ceiling computed per PolypGen center)
+2. PolypDINO-style metrics (IoU, mDice, or other metrics matching PolypDINO evaluation)
+3. Flip test-time augmentation (horizontal/vertical flip TTA at inference)
+4. DyNA-protocol secondary benchmark (evaluate on DyNA-protocol dataset)
+
+Status: PENDING. These items were checked and confirmed not run as of 2026-10-18.
